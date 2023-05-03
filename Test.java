@@ -12,9 +12,6 @@ public class Test {
 	 B b = (B) new A();  //downcasting
 	 
 	 Object o = new A();
-	 
-	 
-
 // object class reference can hold data of any type	 
 	 Object d=101; //int type
 	 int w=(int) d; //downcasting
